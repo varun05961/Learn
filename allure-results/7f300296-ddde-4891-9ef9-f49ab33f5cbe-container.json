@@ -1,0 +1,1 @@
+{"uuid":"7f300296-ddde-4891-9ef9-f49ab33f5cbe","name":"Default test","children":["f784d397-ec44-4708-8d9c-0ca15ebce9bf"],"befores":[{"name":"lauchbrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1686310781706,"stop":1686310801414}],"afters":[],"start":1686310781667,"stop":1686310807738}
