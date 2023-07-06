@@ -65,7 +65,7 @@ public class Practice_form {
 	@Test (priority = 3)
 	public static void subject_dropdown() throws InterruptedException
 	{
-	
+	  System.out.println("check commit");
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(5));
 		WebElement ele = wait.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector(".subjects-auto-complete__value-container input")));
 		ele.sendKeys("Hindi");
